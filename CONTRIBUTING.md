@@ -10,12 +10,12 @@ and reviews of proposed changes are all welcome.
 ## Contributor Agreement
 
 By contributing,
-you agree that we may redistribute your work under [our license](LICENSE.md).
+you agree that we may redistribute your work under [our license]([LICENSE](https://github.com/hsf-training/PyHEP-resources/blob/master/LICENSE)).
 In exchange,
 we will address your issues and/or assess your change proposal as promptly as we can,
 and help you become a member of our community.
 Everyone involved in [HSF training][hsf-training]
-agrees to abide by our [code of conduct](CODE_OF_CONDUCT.md).
+agrees to abide by our [code of conduct](https://github.com/hsf-training/PyHEP-resources?tab=coc-ov-file).
 
 ## How to Contribute
 
@@ -52,9 +52,9 @@ and submitting [bug reports][issues]
 about things that do not work, are not clear, or are missing.
 If you are looking for ideas, please see the 'Issues' tab for
 a list of issues associated with this repository,
-or you may also look at all issues in [hsf-training][hsf-training-issues]
+or you may also look at all issues in [hsf-training][hsf-training-issues].
 
-There is also [a list](hsf-training-gfis) of all issues that are particularly easy and suitable
+There is also [a list](https://github.com/issues?q=is%3Aissue+is%3Aopen+archived%3Afalse+sort%3Aupdated-desc+label%3A%22good+first+issue%22+org%3Ahsf-training) of all issues that are particularly easy and suitable
 for first contributions.
 
 Comments on issues and reviews of pull requests are just as welcome:
@@ -95,7 +95,6 @@ repository for reference while revising.
 
 More information on how to contribute or how to contact us: [HSF training home][hsf-training]
 
-[CODE_OF_CONDUCT.md]: https://github.com/hsf-training/PyHEP-resources?tab=coc-ov-file
 [hsf-training-issues]: https://github.com/issues?q=user%3Ahsf-training+is%3Aopen
 [hsf-training]: https://hepsoftwarefoundation.org/activities/training.html
 [email]: mailto:https://groups.google.com/forum/#!forum/hsf-training-wg
@@ -104,5 +103,3 @@ More information on how to contribute or how to contact us: [HSF training home][
 [github-join]: https://github.com/join
 [how-contribute]: https://docs.github.com/en/get-started/quickstart/contributing-to-projects
 [issues]: https://guides.github.com/features/issues/
-[hsf-training-gfis]: https://github.com/issues?q=is%3Aissue+is%3Aopen+archived%3Afalse+sort%3Aupdated-desc+label%3A%22good+first+issue%22+org%3Ahsf-training
-[LICENSE.md]: https://github.com/hsf-training/PyHEP-resources/blob/master/CONTRIBUTING.md
